@@ -726,7 +726,7 @@ session_start();
         </div>
         <div class="footer-section">
             <h3>Resources</h3>
-            <p><a href="#"> GATE Syllabus</a></p>
+            <p><a href="pdf-library.php"> GATE PDF Notes</a></p>
             <p><a href="#"> Previous Papers</a></p>
             <p><a href="#"> Study Tips</a></p>
             <p><a href="success-stories.php"> Success Stories</a></p>

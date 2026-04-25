@@ -671,6 +671,75 @@ for($i = 0; $i < 30; $i++) {
         <canvas id="subjectChart" height="80"></canvas>
     </div>
 
+        <!-- PDF Library Section -->
+    <div class="glass-card" data-aos="fade-up" data-aos-delay="650">
+        <div class="card-title">
+            <i class="fas fa-book-open" style="color: #ef4444;"></i> 
+            📚 Free Study Materials
+            <span style="font-size: 12px; background: rgba(239,68,68,0.2); padding: 4px 10px; border-radius: 20px; margin-left: 10px;">
+                <i class="fas fa-graduation-cap"></i> GATE Resources
+            </span>
+        </div>
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
+            <!-- PDF Card 1 -->
+            <div style="background: rgba(0,0,0,0.2); border-radius: 16px; padding: 18px; transition: 0.3s; cursor: pointer;" onclick="window.open('pdf-library.php', '_blank')">
+                <div style="display: flex; align-items: center; gap: 15px;">
+                    <div style="font-size: 2.5rem;"><i class="fas fa-file-pdf" style="color: #ef4444;"></i></div>
+                    <div style="flex: 1;">
+                        <h4 style="font-size: 14px; margin-bottom: 5px;">GATE Computer Science Complete Guide</h4>
+                        <p style="font-size: 11px; color: #9ca3af;">450+ pages • Full syllabus coverage</p>
+                        <div style="display: flex; gap: 8px; margin-top: 8px;">
+                            <span style="background: rgba(239,68,68,0.2); padding: 2px 8px; border-radius: 12px; font-size: 10px;"><i class="fas fa-star"></i> Best Seller</span>
+                            <span style="background: rgba(139,92,246,0.2); padding: 2px 8px; border-radius: 12px; font-size: 10px;"><i class="fas fa-database"></i> CSE/IT</span>
+                        </div>
+                    </div>
+                    <i class="fas fa-arrow-right" style="color: #a855f7;"></i>
+                </div>
+            </div>
+
+            <!-- PDF Card 2 -->
+            <div style="background: rgba(0,0,0,0.2); border-radius: 16px; padding: 18px; transition: 0.3s; cursor: pointer;" onclick="window.open('pdf-library.php', '_blank')">
+                <div style="display: flex; align-items: center; gap: 15px;">
+                    <div style="font-size: 2.5rem;"><i class="fas fa-file-pdf" style="color: #ef4444;"></i></div>
+                    <div style="flex: 1;">
+                        <h4 style="font-size: 14px; margin-bottom: 5px;">Introduction to Algorithms</h4>
+                        <p style="font-size: 11px; color: #9ca3af;">600+ pages • DSA Complete Guide</p>
+                        <div style="display: flex; gap: 8px; margin-top: 8px;">
+                            <span style="background: rgba(239,68,68,0.2); padding: 2px 8px; border-radius: 12px; font-size: 10px;"><i class="fas fa-code"></i> Algorithms</span>
+                            <span style="background: rgba(139,92,246,0.2); padding: 2px 8px; border-radius: 12px; font-size: 10px;"><i class="fas fa-layer-group"></i> 600+ pages</span>
+                        </div>
+                    </div>
+                    <i class="fas fa-arrow-right" style="color: #a855f7;"></i>
+                </div>
+            </div>
+
+            <!-- PDF Card 3 -->
+            <div style="background: rgba(0,0,0,0.2); border-radius: 16px; padding: 18px; transition: 0.3s; cursor: pointer;" onclick="window.open('pdf-library.php', '_blank')">
+                <div style="display: flex; align-items: center; gap: 15px;">
+                    <div style="font-size: 2.5rem;"><i class="fas fa-file-pdf" style="color: #ef4444;"></i></div>
+                    <div style="flex: 1;">
+                        <h4 style="font-size: 14px; margin-bottom: 5px;">Previous Year Papers (2015-2025)</h4>
+                        <p style="font-size: 11px; color: #9ca3af;">10 Years • Solved with explanations</p>
+                        <div style="display: flex; gap: 8px; margin-top: 8px;">
+                            <span style="background: rgba(239,68,68,0.2); padding: 2px 8px; border-radius: 12px; font-size: 10px;"><i class="fas fa-calendar"></i> 10 Years</span>
+                            <span style="background: rgba(139,92,246,0.2); padding: 2px 8px; border-radius: 12px; font-size: 10px;"><i class="fas fa-check-circle"></i> Solved</span>
+                        </div>
+                    </div>
+                    <i class="fas fa-arrow-right" style="color: #a855f7;"></i>
+                </div>
+            </div>
+        </div>
+
+        <!-- View All Link -->
+        <div style="margin-top: 20px; text-align: center;">
+            <a href="pdf-library.php" style="background: linear-gradient(135deg, #a855f7, #3b82f6); padding: 10px 25px; border-radius: 40px; text-decoration: none; color: white; font-size: 13px; display: inline-flex; align-items: center; gap: 8px;">
+                <i class="fas fa-book-open"></i> View Complete PDF Library
+                <i class="fas fa-arrow-right"></i>
+            </a>
+        </div>
+    </div>
+
     <!-- Footer -->
     <div class="dashboard-footer" data-aos="fade-up" data-aos-delay="700">
         <p><i class="fas fa-heart" style="color: #ef4444;"></i> Keep pushing forward! Every hour of study brings you closer to your GATE dream.</p>
