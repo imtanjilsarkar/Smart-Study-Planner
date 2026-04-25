@@ -675,10 +675,10 @@ for($i = 0; $i < 30; $i++) {
     <div class="dashboard-footer" data-aos="fade-up" data-aos-delay="700">
         <p><i class="fas fa-heart" style="color: #ef4444;"></i> Keep pushing forward! Every hour of study brings you closer to your GATE dream.</p>
         <div style="margin-top: 15px;">
-            <a href="index.php" style="color: #a855f7; text-decoration: none; margin: 0 10px;">🏠 Home</a>
-            <a href="profile.php" style="color: #a855f7; text-decoration: none; margin: 0 10px;">👤 Profile</a>
-            <a href="about.php" style="color: #a855f7; text-decoration: none; margin: 0 10px;">📖 About</a>
-            <a href="contact.php" style="color: #a855f7; text-decoration: none; margin: 0 10px;">📞 Contact</a>
+            <a href="index.php" style="color: #a855f7; text-decoration: none; margin: 0 10px;"> Home</a>
+            <a href="profile.php" style="color: #a855f7; text-decoration: none; margin: 0 10px;"> Profile</a>
+            <a href="about.php" style="color: #a855f7; text-decoration: none; margin: 0 10px;"> About</a>
+            <a href="contact.php" style="color: #a855f7; text-decoration: none; margin: 0 10px;"> Contact</a>
         </div>
     </div>
 </div>

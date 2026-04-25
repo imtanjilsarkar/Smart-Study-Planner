@@ -719,23 +719,23 @@ session_start();
         </div>
         <div class="footer-section">
             <h3>Quick Links</h3>
-            <p><a href="index.php">🏠 Home</a></p>
-            <p><a href="#features">✨ Features</a></p>
-            <p><a href="about.php">📖 About Us</a></p>
-            <p><a href="contact.php">📞 Contact</a></p>
+            <p><a href="index.php"> Home</a></p>
+            <p><a href="#features"> Features</a></p>
+            <p><a href="about.php"> About Us</a></p>
+            <p><a href="contact.php"> Contact</a></p>
         </div>
         <div class="footer-section">
             <h3>Resources</h3>
-            <p><a href="#">📚 GATE Syllabus</a></p>
-            <p><a href="#">📝 Previous Papers</a></p>
-            <p><a href="#">💡 Study Tips</a></p>
-            <p><a href="#">🎯 Success Stories</a></p>
+            <p><a href="#"> GATE Syllabus</a></p>
+            <p><a href="#"> Previous Papers</a></p>
+            <p><a href="#"> Study Tips</a></p>
+            <p><a href="success-stories.php"> Success Stories</a></p>
         </div>
         <div class="footer-section">
             <h3>Contact Info</h3>
             <p><i class="fas fa-envelope"></i> support@smartstudy.ai</p>
-            <p><i class="fas fa-phone"></i> +91 12345 67890</p>
-            <p><i class="fas fa-map-marker-alt"></i> Bangalore, India</p>
+            <p><i class="fas fa-phone"></i> +880 12345 67890</p>
+            <p><i class="fas fa-map-marker-alt"></i> Dhaka, Bangladesh</p>
         </div>
     </div>
     <div class="footer-bottom">

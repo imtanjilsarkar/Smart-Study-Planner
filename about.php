@@ -714,23 +714,23 @@ session_start();
         </div>
         <div class="footer-section">
             <h3>Quick Links</h3>
-            <a href="index.php">🏠 Home</a>
-            <a href="dashboard.php">📊 Dashboard</a>
-            <a href="about.php">📖 About Us</a>
-            <a href="contact.php">📞 Contact</a>
+            <a href="index.php"> Home</a>
+            <a href="dashboard.php"> Dashboard</a>
+            <a href="about.php"> About Us</a>
+            <a href="contact.php"> Contact</a>
         </div>
         <div class="footer-section">
             <h3>Resources</h3>
-            <a href="#">📚 GATE Syllabus</a>
-            <a href="#">📝 Previous Papers</a>
-            <a href="#">💡 Study Tips</a>
-            <a href="#">🎯 Success Stories</a>
+            <a href="#"> GATE Syllabus</a>
+            <a href="#"> Previous Papers</a>
+            <a href="#"> Study Tips</a>
+            <a href=""> Success Stories</a>
         </div>
         <div class="footer-section">
             <h3>Contact Info</h3>
             <p><i class="fas fa-envelope"></i> support@smartstudy.ai</p>
-            <p><i class="fas fa-phone"></i> +91 12345 67890</p>
-            <p><i class="fas fa-map-marker-alt"></i> Bangalore, India</p>
+            <p><i class="fas fa-phone"></i> +880 12345 67890</p>
+            <p><i class="fas fa-map-marker-alt"></i> Dhaka, Bangladesh</p>
         </div>
     </div>
     <div class="footer-bottom">

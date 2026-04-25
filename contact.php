@@ -564,8 +564,8 @@ session_start();
                 <div class="info-icon" style="color: #3b82f6;"><i class="fas fa-phone-alt"></i></div>
                 <div class="info-content">
                     <h4>Call Us</h4>
-                    <p>+91 12345 67890</p>
-                    <p style="font-size: 12px; color: #6b7280;">Mon-Fri, 9AM-6PM IST</p>
+                    <p>+880 12345 67890</p>
+                    <p style="font-size: 12px; color: #6b7280;">Mon-Fri, 9AM-6PM BST</p>
                 </div>
             </div>
             
@@ -573,7 +573,7 @@ session_start();
                 <div class="info-icon" style="color: #22c55e;"><i class="fab fa-whatsapp"></i></div>
                 <div class="info-content">
                     <h4>WhatsApp</h4>
-                    <p>+91 98765 43210</p>
+                    <p>+880 98765 43210</p>
                     <p style="font-size: 12px; color: #6b7280;">Quick responses within 2hrs</p>
                 </div>
             </div>
@@ -583,7 +583,7 @@ session_start();
                 <div class="info-content">
                     <h4>Visit Us</h4>
                     <p>SmartStudy AI Headquarters</p>
-                    <p style="font-size: 12px; color: #6b7280;">Bangalore, Karnataka, India - 560001</p>
+                    <p style="font-size: 12px; color: #6b7280;">Bashundhara, Dhaka, Bangladesh - 1205</p>
                 </div>
             </div>
 
@@ -668,7 +668,7 @@ session_start();
         <div class="map-placeholder">
             <i class="fas fa-map-marker-alt" style="font-size: 3rem; color: #a855f7;"></i>
             <p>SmartStudy AI Headquarters</p>
-            <p style="font-size: 12px; color: #9ca3af;">Bangalore, India</p>
+            <p style="font-size: 12px; color: #9ca3af;">Dhaka, Bangladesh</p>
             <p style="font-size: 12px; color: #6b7280;">📍 Interactive map available in full version</p>
         </div>
     </div>
@@ -688,23 +688,23 @@ session_start();
         </div>
         <div class="footer-section">
             <h3>Quick Links</h3>
-            <a href="index.php">🏠 Home</a>
-            <a href="dashboard.php">📊 Dashboard</a>
-            <a href="about.php">📖 About Us</a>
-            <a href="contact.php">📞 Contact</a>
+            <a href="index.php"> Home</a>
+            <a href="dashboard.php"> Dashboard</a>
+            <a href="about.php"> About Us</a>
+            <a href="contact.php"> Contact</a>
         </div>
         <div class="footer-section">
             <h3>Support</h3>
-            <a href="#">📚 Help Center</a>
-            <a href="#">📝 Privacy Policy</a>
-            <a href="#">⚖️ Terms of Service</a>
-            <a href="#">💡 FAQ</a>
+            <a href="#"> Help Center</a>
+            <a href="#"> Privacy Policy</a>
+            <a href="#"> Terms of Service</a>
+            <a href="#"> FAQ</a>
         </div>
         <div class="footer-section">
             <h3>Contact Info</h3>
             <p><i class="fas fa-envelope"></i> support@smartstudy.ai</p>
-            <p><i class="fas fa-phone"></i> +91 12345 67890</p>
-            <p><i class="fas fa-map-marker-alt"></i> Bangalore, India</p>
+            <p><i class="fas fa-phone"></i> +880 12345 67890</p>
+            <p><i class="fas fa-map-marker-alt"></i> Dhaka, Bangladesh</p>
         </div>
     </div>
     <div class="footer-bottom">
