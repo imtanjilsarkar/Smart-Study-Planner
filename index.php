@@ -739,7 +739,7 @@ session_start();
         </div>
     </div>
     <div class="footer-bottom">
-        <p>&copy; 2026 SmartStudy AI | Next-Gen GATE Preparation Platform | Version 3.0</p>
+        <p>&copy; 2026 SmartStudy AI | Next-Gen GATE Preparation Platform | Version 3.0 | Developed by Tanjil Sarkar</p>
     </div>
 </footer>
 
