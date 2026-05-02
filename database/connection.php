@@ -1,8 +1,9 @@
 <?php
-$host = 'localhost';
-$user = 'root';
-$password = '';
-$database = 'study_planner_db';
+// InfinityFree Database Configuration
+$host = 'sql113.infinityfree.com';
+$user = 'if0_41809097';
+$password = 'Tanji1CSEHero25';
+$database = 'if0_41809097_smartstudyplanner';
 
 // Create connection
 $conn = mysqli_connect($host, $user, $password, $database);
